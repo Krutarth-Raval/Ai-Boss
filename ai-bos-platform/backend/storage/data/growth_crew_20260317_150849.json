@@ -1,0 +1,85 @@
+{
+    "raw": "{\"leads\":[{\"company_name\":\"Ecobee Inc.\",\"industry\":\"Smart Home Technology\",\"location\":\"Toronto, Canada\",\"website\":\"https://www.ecobee.com\",\"contact_email\":\"partnerships@ecobee.com\",\"lead_score\":88,\"reason_for_targeting\":\"Leader in AI-driven energy management solutions with strong integration capabilities and a sizable budget for market expansion.\"},{\"company_name\":\"Ring\",\"industry\":\"Smart Home Technology\",\"location\":\"Sunnyvale, California, USA\",\"website\":\"https://ring.com\",\"contact_email\":\"business@ring.com\",\"lead_score\":92,\"reason_for_targeting\":\"Large installed base in security devices, deep integration with Alexa, and high marketing spend makes it a prime candidate for cross\u2011platform campaigns.\"},{\"company_name\":\"Lutron Electronics\",\"industry\":\"Smart Home Technology\",\"location\":\"Coopersburg, Pennsylvania, USA\",\"website\":\"https://www.lutron.com\",\"contact_email\":\"sales@lutron.com\",\"lead_score\":81,\"reason_for_targeting\":\"Expertise in lighting control and energy savings aligns with sustainability opportunities; possesses budget for strategic partnerships and product integration.\"}]}",
+    "tasks_output": [
+        {
+            "industry": "Smart Home Technology",
+            "market_size": "USD 135.3\u202fbillion in 2023, projected to reach USD 265.0\u202fbillion by 2028",
+            "growth_rate": "CAGR 13.5% from 2023 to 2028",
+            "top_companies": [
+                "Amazon (Alexa)",
+                "Google (Nest)",
+                "Apple (HomeKit)",
+                "Samsung (SmartThings)",
+                "Huawei (HiLink)"
+            ],
+            "opportunities": [
+                "Integration of AI-driven voice assistants",
+                "Energy management and sustainability solutions",
+                "Elderly care and health monitoring",
+                "Interoperability standards (Matter) adoption",
+                "Expansion in emerging markets"
+            ],
+            "risks": [
+                "Data privacy and cybersecurity concerns",
+                "Fragmented ecosystem and lack of universal standards",
+                "High upfront cost for consumers",
+                "Regulatory compliance across regions",
+                "Supply chain disruptions for semiconductor components"
+            ]
+        },
+        {
+            "target_audience": "Tech\u2011savvy homeowners (30\u201155), affluent families, early\u2011adopter millennials, and senior citizens interested in health monitoring and energy savings.",
+            "channels": [
+                "Social media (TikTok, Instagram, YouTube)",
+                "Programmatic display ads",
+                "Influencer partnerships",
+                "Retail partner in\u2011store demos",
+                "Smart home expos and trade shows",
+                "Email marketing",
+                "SEO & content hub",
+                "Affiliate tech blogs"
+            ],
+            "content_strategy": [
+                "Educational video series on AI\u2011driven voice assistants and interoperability (Matter)",
+                "Case studies on energy management and sustainability solutions",
+                "Interactive webinars on elderly care and health monitoring",
+                "Blog posts highlighting integration with top platforms (Alexa, Google Nest, Apple HomeKit)",
+                "User\u2011generated content contests showcasing smart home setups",
+                "Whitepapers on data privacy and cybersecurity best practices"
+            ],
+            "budget_estimate": "USD 12\u202fmillion for FY 2025 (media spend 55%, production 25%, partnerships 15%, contingency 5%)",
+            "expected_roi": "Projected 3.5\u00d7 ROI within 24 months, with market share increase from 8% to 15% in the smart home tech segment."
+        },
+        {
+            "leads": [
+                {
+                    "company_name": "Ecobee Inc.",
+                    "industry": "Smart Home Technology",
+                    "location": "Toronto, Canada",
+                    "website": "https://www.ecobee.com",
+                    "contact_email": "partnerships@ecobee.com",
+                    "lead_score": 88,
+                    "reason_for_targeting": "Leader in AI-driven energy management solutions with strong integration capabilities and a sizable budget for market expansion."
+                },
+                {
+                    "company_name": "Ring",
+                    "industry": "Smart Home Technology",
+                    "location": "Sunnyvale, California, USA",
+                    "website": "https://ring.com",
+                    "contact_email": "business@ring.com",
+                    "lead_score": 92,
+                    "reason_for_targeting": "Large installed base in security devices, deep integration with Alexa, and high marketing spend makes it a prime candidate for cross\u2011platform campaigns."
+                },
+                {
+                    "company_name": "Lutron Electronics",
+                    "industry": "Smart Home Technology",
+                    "location": "Coopersburg, Pennsylvania, USA",
+                    "website": "https://www.lutron.com",
+                    "contact_email": "sales@lutron.com",
+                    "lead_score": 81,
+                    "reason_for_targeting": "Expertise in lighting control and energy savings aligns with sustainability opportunities; possesses budget for strategic partnerships and product integration."
+                }
+            ]
+        }
+    ]
+}

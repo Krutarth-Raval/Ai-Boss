@@ -1,0 +1,66 @@
+{
+    "raw": "{\"metrics\":{},\"growth_trends\":[\"Expansion of cloud computing and hybrid\u2011cloud solutions\",\"Growing demand for AI/ML and data\u2011analytics platforms\",\"Increasing cybersecurity spending across enterprises\",\"Rise of edge computing and Internet of Things (IoT) deployments\",\"Digital transformation initiatives in healthcare, finance, and manufacturing\"],\"recommendations\":[\"Intensifying talent shortage for skilled software engineers and cybersecurity experts\",\"Regulatory scrutiny and data\u2011privacy legislation (e.g., CCPA, GDPR compliance costs)\",\"Supply\u2011chain disruptions affecting hardware components for data\u2011center expansion\",\"Geopolitical tensions impacting cross\u2011border cloud services and talent mobility\",\"Rapid technology obsolescence requiring continuous R&D investment\"]}",
+    "tasks_output": [
+        {
+            "industry": "Information Technology (IT) Services and Software Development in the United States",
+            "market_size": "$2.1 trillion (2025 estimate)",
+            "growth_rate": "5.2% CAGR (2023\u20112028)",
+            "top_companies": [
+                "Microsoft Corporation",
+                "Apple Inc.",
+                "Amazon Web Services (AWS)",
+                "Alphabet Inc. (Google Cloud)",
+                "IBM Corporation"
+            ],
+            "opportunities": [
+                "Expansion of cloud computing and hybrid\u2011cloud solutions",
+                "Growing demand for AI/ML and data\u2011analytics platforms",
+                "Increasing cybersecurity spending across enterprises",
+                "Rise of edge computing and Internet of Things (IoT) deployments",
+                "Digital transformation initiatives in healthcare, finance, and manufacturing"
+            ],
+            "risks": [
+                "Intensifying talent shortage for skilled software engineers and cybersecurity experts",
+                "Regulatory scrutiny and data\u2011privacy legislation (e.g., CCPA, GDPR compliance costs)",
+                "Supply\u2011chain disruptions affecting hardware components for data\u2011center expansion",
+                "Geopolitical tensions impacting cross\u2011border cloud services and talent mobility",
+                "Rapid technology obsolescence requiring continuous R&D investment"
+            ]
+        },
+        {
+            "strategic_objective": "Expansion of cloud computing and hybrid\u2011cloud solutions",
+            "key_results": [
+                "Expansion of cloud computing and hybrid\u2011cloud solutions",
+                "Growing demand for AI/ML and data\u2011analytics platforms",
+                "Increasing cybersecurity spending across enterprises",
+                "Rise of edge computing and Internet of Things (IoT) deployments",
+                "Digital transformation initiatives in healthcare, finance, and manufacturing"
+            ],
+            "timeline": "2023\u20112028",
+            "risk_mitigation": [
+                "Intensifying talent shortage for skilled software engineers and cybersecurity experts",
+                "Regulatory scrutiny and data\u2011privacy legislation (e.g., CCPA, GDPR compliance costs)",
+                "Supply\u2011chain disruptions affecting hardware components for data\u2011center expansion",
+                "Geopolitical tensions impacting cross\u2011border cloud services and talent mobility",
+                "Rapid technology obsolescence requiring continuous R&D investment"
+            ]
+        },
+        {
+            "metrics": {},
+            "growth_trends": [
+                "Expansion of cloud computing and hybrid\u2011cloud solutions",
+                "Growing demand for AI/ML and data\u2011analytics platforms",
+                "Increasing cybersecurity spending across enterprises",
+                "Rise of edge computing and Internet of Things (IoT) deployments",
+                "Digital transformation initiatives in healthcare, finance, and manufacturing"
+            ],
+            "recommendations": [
+                "Intensifying talent shortage for skilled software engineers and cybersecurity experts",
+                "Regulatory scrutiny and data\u2011privacy legislation (e.g., CCPA, GDPR compliance costs)",
+                "Supply\u2011chain disruptions affecting hardware components for data\u2011center expansion",
+                "Geopolitical tensions impacting cross\u2011border cloud services and talent mobility",
+                "Rapid technology obsolescence requiring continuous R&D investment"
+            ]
+        }
+    ]
+}

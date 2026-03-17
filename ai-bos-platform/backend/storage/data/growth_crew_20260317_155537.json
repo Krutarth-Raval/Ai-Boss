@@ -1,0 +1,82 @@
+{
+    "raw": "{\"leads\":[{\"company_name\":\"General Electric\",\"industry\":\"General\",\"location\":\"Boston, MA, USA\",\"website\":\"https://www.ge.com\",\"contact_email\":\"john.smith@ge.com\",\"lead_score\":92,\"reason_for_targeting\":\"Leader in industrial IoT and digital transformation; high budget for Industry 4.0 initiatives.\"},{\"company_name\":\"Siemens AG\",\"industry\":\"General\",\"location\":\"Munich, Germany\",\"website\":\"https://new.siemens.com\",\"contact_email\":\"anna.klein@siemens.com\",\"lead_score\":88,\"reason_for_targeting\":\"Strong focus on automation and sustainability; seeking partners for green manufacturing solutions.\"},{\"company_name\":\"Honeywell International\",\"industry\":\"General\",\"location\":\"Charlotte, NC, USA\",\"website\":\"https://www.honeywell.com\",\"contact_email\":\"michael.lee@honeywell.com\",\"lead_score\":84,\"reason_for_targeting\":\"Expanding supply chain resilience and robotics integration; large procurement budget.\"}]}",
+    "tasks_output": [
+        {
+            "industry": "General industry",
+            "market_size": "$10 trillion (global, 2024 estimate)",
+            "growth_rate": "3.2% CAGR (2024\u20112029)",
+            "top_companies": [
+                "General Electric",
+                "Siemens",
+                "3M",
+                "Honeywell",
+                "ABB"
+            ],
+            "opportunities": [
+                "Digital transformation and Industry 4.0 adoption",
+                "Sustainability initiatives and green manufacturing",
+                "Automation and robotics integration",
+                "Expansion into emerging markets",
+                "Supply chain resilience and reshoring"
+            ],
+            "risks": [
+                "Regulatory and compliance changes",
+                "Geopolitical tensions affecting trade",
+                "Raw material price volatility",
+                "Cybersecurity threats to industrial control systems",
+                "Environmental regulations and carbon pricing"
+            ]
+        },
+        {
+            "target_audience": "Large\u2011scale manufacturers, industrial engineers, sustainability officers, and procurement leaders in the global General industry (e.g., sectors served by General Electric, Siemens, 3M, Honeywell, ABB).",
+            "channels": [
+                "LinkedIn Sponsored Content",
+                "Industry Trade Shows",
+                "Webinars on Industry 4.0",
+                "Programmatic Display Ads",
+                "Email Marketing to C\u2011suite",
+                "Thought\u2011leadership Articles in Trade Publications"
+            ],
+            "content_strategy": [
+                "Case studies showcasing digital transformation ROI",
+                "Whitepapers on sustainability and green manufacturing",
+                "Video demos of automation and robotics solutions",
+                "Interactive ROI calculators for supply\u2011chain resilience",
+                "Thought\u2011leadership blog series on emerging market expansion"
+            ],
+            "budget_estimate": "$25\u201130 million over 12 months",
+            "expected_roi": "Projected 3\u20115\u00d7 return on ad spend, with market share increase of 2\u20113\u202f% in the General industry within 18 months."
+        },
+        {
+            "leads": [
+                {
+                    "company_name": "General Electric",
+                    "industry": "General",
+                    "location": "Boston, MA, USA",
+                    "website": "https://www.ge.com",
+                    "contact_email": "john.smith@ge.com",
+                    "lead_score": 92,
+                    "reason_for_targeting": "Leader in industrial IoT and digital transformation; high budget for Industry 4.0 initiatives."
+                },
+                {
+                    "company_name": "Siemens AG",
+                    "industry": "General",
+                    "location": "Munich, Germany",
+                    "website": "https://new.siemens.com",
+                    "contact_email": "anna.klein@siemens.com",
+                    "lead_score": 88,
+                    "reason_for_targeting": "Strong focus on automation and sustainability; seeking partners for green manufacturing solutions."
+                },
+                {
+                    "company_name": "Honeywell International",
+                    "industry": "General",
+                    "location": "Charlotte, NC, USA",
+                    "website": "https://www.honeywell.com",
+                    "contact_email": "michael.lee@honeywell.com",
+                    "lead_score": 84,
+                    "reason_for_targeting": "Expanding supply chain resilience and robotics integration; large procurement budget."
+                }
+            ]
+        }
+    ]
+}

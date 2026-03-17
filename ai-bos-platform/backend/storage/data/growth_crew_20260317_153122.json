@@ -1,0 +1,91 @@
+{
+    "raw": "{\"poster_status\":\"/generated/poster_dominate_market.png\",\"video_status\":\"Failed \u2013 the tool returned an error (\u201cIncorrect hostname for API key\u201d).\",\"poster_prompt\":\"A high\u2011resolution, hyper\u2011realistic marketing poster for a global General industry campaign titled \u201cDominate the Market\u201d. Central composition features a sleek metallic globe made of interlocking digital circuit lines and glowing IoT nodes, rotating against a deep midnight\u2011blue background. Cinematic rim lighting outlines the globe with a teal\u2011green glow symbolizing sustainability. In the foreground, matte\u2011steel silhouettes of advanced manufacturing equipment\u2014robotic arms, 3D printers\u2014and wind\u2011turbine blades emerge from the lower edge, illuminated with soft edge lighting. Across the top, bold futuristic sans\u2011serif headline \u201cDominate the Market\u201d in large white letters with a subtle chrome gradient and drop shadow. Sub\u2011headline in smaller caps: \u201cDigital Transformation \u2022 Green Technology \u2022 Emerging Opportunities\u201d in teal accent. Background includes a faint bokeh of distant city skylines and flowing data streams. Style is ultra\u2011modern, glossy, high\u2011contrast, cinematic lighting, suitable for 8K large\u2011format print.\",\"video_prompt\":\"Create a 10\u2011second cinematic marketing video for a General industry campaign titled \u2018Dominate the Market\u2019. The video opens with a dark midnight\u2011blue background, then a glowing metallic globe made of digital circuit lines rotates slowly, illuminated by teal rim lighting. Data streams flow across the screen. Quick cuts show silhouettes of robotic arms, 3D printers, and wind\u2011turbine blades moving in sync with a pulsing electronic beat. At 5 seconds, bold futuristic white text \u2018Dominate the Market\u2019 appears with a chrome gradient, followed by teal subtext \u2018Digital Transformation \u2022 Green Technology \u2022 Emerging Opportunities\u2019. End with a subtle fade to the company logo. Style: ultra\u2011modern, glossy, high\u2011contrast, cinematic lighting.\"}",
+    "tasks_output": [
+        {
+            "industry": "General industry",
+            "market_size": "Approximately $5 trillion globally (2023 estimate)",
+            "growth_rate": "CAGR of 3.2% projected from 2024 to 2029",
+            "top_companies": [
+                "General Electric",
+                "Siemens",
+                "Honeywell International",
+                "3M",
+                "Raytheon Technologies"
+            ],
+            "opportunities": [
+                "Digital transformation and IoT integration",
+                "Sustainability and green technologies",
+                "Emerging markets demand",
+                "Advanced manufacturing and automation",
+                "Service-based business models"
+            ],
+            "risks": [
+                "Supply chain disruptions",
+                "Regulatory and compliance changes",
+                "Geopolitical tensions",
+                "Economic slowdown",
+                "Talent shortage in high\u2011skill areas"
+            ]
+        },
+        {
+            "target_audience": "Large enterprises, mid\u2011size manufacturers, and technology adopters in the General industry worldwide, especially those focused on digital transformation, sustainability, emerging markets, advanced manufacturing, and service\u2011based models.",
+            "channels": [
+                "Digital advertising (programmatic, search, social)",
+                "Industry trade shows and conferences",
+                "Content marketing (whitepapers, webinars, case studies)",
+                "Account\u2011based marketing (ABM) for key accounts",
+                "Partner and reseller networks",
+                "Email nurture campaigns",
+                "PR and thought leadership in trade publications"
+            ],
+            "content_strategy": [
+                "Thought\u2011leadership articles on IoT integration and green tech",
+                "Video case studies showcasing advanced automation solutions",
+                "Interactive ROI calculators for sustainability investments",
+                "Webinars featuring industry experts on digital transformation",
+                "Infographics highlighting market growth and opportunities",
+                "Customer success stories targeting emerging market expansion",
+                "Regular newsletters with industry trends and product updates"
+            ],
+            "budget_estimate": "$25\u201130 million over 12 months, allocated across media spend, content production, events, and technology platforms.",
+            "expected_roi": "Projected 3\u20115\u00d7 return on investment within 24 months, driven by increased market share, higher average contract value, and accelerated pipeline velocity."
+        },
+        {
+            "leads": [
+                {
+                    "company_name": "General Electric",
+                    "industry": "General",
+                    "location": "Boston, MA, USA",
+                    "website": "https://www.ge.com",
+                    "contact_email": "john.doe@ge.com",
+                    "lead_score": 95,
+                    "reason_for_targeting": "Leader in digital transformation and IoT integration with a multi\u2011billion\u2011dollar budget for sustainability and advanced manufacturing initiatives."
+                },
+                {
+                    "company_name": "Siemens AG",
+                    "industry": "General",
+                    "location": "Munich, Germany",
+                    "website": "https://www.siemens.com",
+                    "contact_email": "anna.schmidt@siemens.com",
+                    "lead_score": 92,
+                    "reason_for_targeting": "Strong focus on advanced automation, green technologies, and a robust financial capacity to invest in emerging market expansion."
+                },
+                {
+                    "company_name": "3M Company",
+                    "industry": "General",
+                    "location": "St. Paul, MN, USA",
+                    "website": "https://www.3m.com",
+                    "contact_email": "mike.lee@3m.com",
+                    "lead_score": 90,
+                    "reason_for_targeting": "Diverse product portfolio targeting service\u2011based business models and sustainability solutions, with significant budget for digital transformation projects."
+                }
+            ]
+        },
+        {
+            "poster_status": "/generated/poster_dominate_market.png",
+            "video_status": "Failed \u2013 the tool returned an error (\u201cIncorrect hostname for API key\u201d).",
+            "poster_prompt": "A high\u2011resolution, hyper\u2011realistic marketing poster for a global General industry campaign titled \u201cDominate the Market\u201d. Central composition features a sleek metallic globe made of interlocking digital circuit lines and glowing IoT nodes, rotating against a deep midnight\u2011blue background. Cinematic rim lighting outlines the globe with a teal\u2011green glow symbolizing sustainability. In the foreground, matte\u2011steel silhouettes of advanced manufacturing equipment\u2014robotic arms, 3D printers\u2014and wind\u2011turbine blades emerge from the lower edge, illuminated with soft edge lighting. Across the top, bold futuristic sans\u2011serif headline \u201cDominate the Market\u201d in large white letters with a subtle chrome gradient and drop shadow. Sub\u2011headline in smaller caps: \u201cDigital Transformation \u2022 Green Technology \u2022 Emerging Opportunities\u201d in teal accent. Background includes a faint bokeh of distant city skylines and flowing data streams. Style is ultra\u2011modern, glossy, high\u2011contrast, cinematic lighting, suitable for 8K large\u2011format print.",
+            "video_prompt": "Create a 10\u2011second cinematic marketing video for a General industry campaign titled \u2018Dominate the Market\u2019. The video opens with a dark midnight\u2011blue background, then a glowing metallic globe made of digital circuit lines rotates slowly, illuminated by teal rim lighting. Data streams flow across the screen. Quick cuts show silhouettes of robotic arms, 3D printers, and wind\u2011turbine blades moving in sync with a pulsing electronic beat. At 5 seconds, bold futuristic white text \u2018Dominate the Market\u2019 appears with a chrome gradient, followed by teal subtext \u2018Digital Transformation \u2022 Green Technology \u2022 Emerging Opportunities\u2019. End with a subtle fade to the company logo. Style: ultra\u2011modern, glossy, high\u2011contrast, cinematic lighting."
+        }
+    ]
+}

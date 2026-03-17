@@ -1,0 +1,64 @@
+{
+    "raw": "{\"metrics\":{},\"growth_trends\":[\"Achieve a CPM \u2264 $5 within the first week.\",\"Generate at least 200 qualified leads or conversions within the 30\u2011day campaign.\",\"Attain a ROAS (return on ad spend) of 3:1 by the end of the campaign.\",\"Maintain ad frequency below 2.5 to avoid ad fatigue.\"],\"recommendations\":[\"Counter rising CPMs by focusing on low\u2011competition niche audiences and short\u2011form video placements.\",\"Mitigate policy changes by pre\u2011approving ad creatives and maintaining compliance checklists.\",\"Address limited data granularity by using AI\u2011driven predictive modeling and frequent micro\u2011adjustments.\",\"Prevent ad fatigue by rotating creative assets every 48 hours and capping frequency.\",\"Navigate regulatory scrutiny by adhering to data\u2011privacy best practices and using platform\u2011provided consent tools.\"]}",
+    "tasks_output": [
+        {
+            "industry": "Facebook Advertising for Small Budgets ($100 Campaigns)",
+            "market_size": "$12.5\u202fbillion (global spend on low\u2011budget Facebook ad campaigns in 2023)",
+            "growth_rate": "8.3% CAGR (2024\u20112029) for sub\u2011$500 daily spend campaigns on Facebook",
+            "top_companies": [
+                "Meta (Facebook) \u2013 Ads Manager platform",
+                "AdEspresso (by Hootsuite) \u2013 campaign automation for small budgets",
+                "WordStream \u2013 PPC management tools for low\u2011budget advertisers",
+                "Kenshoo (Skai) \u2013 cross\u2011channel ad optimization with $100\u2011budget support",
+                "Smartly.io \u2013 creative automation for micro\u2011spend campaigns"
+            ],
+            "opportunities": [
+                "AI\u2011driven audience segmentation enabling higher ROI at $100 spend levels",
+                "Growth of mobile\u2011first commerce driving demand for short\u2011burst ad bursts",
+                "Emergence of short\u2011form video formats (Reels, Stories) with lower CPMs",
+                "Integration of Shopify and other e\u2011commerce platforms simplifying ad creation for SMBs",
+                "Increasing availability of self\u2011serve analytics dashboards for micro\u2011budget tracking"
+            ],
+            "risks": [
+                "Rising CPMs due to competition from TikTok and Instagram Reels",
+                "Policy changes and ad\u2011approval delays affecting campaign launch speed",
+                "Limited data granularity at $100 spend, reducing optimization precision",
+                "Ad fatigue in niche audiences leading to diminishing returns quickly",
+                "Regulatory scrutiny on data privacy impacting targeting capabilities"
+            ]
+        },
+        {
+            "strategic_objective": "Launch a high\u2011impact Facebook ad campaign with a $100 budget that maximizes ROI by leveraging AI\u2011driven audience segmentation and short\u2011form video formats for SMB e\u2011commerce clients.",
+            "key_results": [
+                "Achieve a CPM \u2264 $5 within the first week.",
+                "Generate at least 200 qualified leads or conversions within the 30\u2011day campaign.",
+                "Attain a ROAS (return on ad spend) of 3:1 by the end of the campaign.",
+                "Maintain ad frequency below 2.5 to avoid ad fatigue."
+            ],
+            "timeline": "Preparation (Week 1): audience research and creative development; Launch (Week 2): campaign go\u2011live; Optimization (Weeks 3\u20114): AI\u2011driven adjustments and performance monitoring; Reporting (Week 5): final analysis and insights.",
+            "risk_mitigation": [
+                "Counter rising CPMs by focusing on low\u2011competition niche audiences and short\u2011form video placements.",
+                "Mitigate policy changes by pre\u2011approving ad creatives and maintaining compliance checklists.",
+                "Address limited data granularity by using AI\u2011driven predictive modeling and frequent micro\u2011adjustments.",
+                "Prevent ad fatigue by rotating creative assets every 48 hours and capping frequency.",
+                "Navigate regulatory scrutiny by adhering to data\u2011privacy best practices and using platform\u2011provided consent tools."
+            ]
+        },
+        {
+            "metrics": {},
+            "growth_trends": [
+                "Achieve a CPM \u2264 $5 within the first week.",
+                "Generate at least 200 qualified leads or conversions within the 30\u2011day campaign.",
+                "Attain a ROAS (return on ad spend) of 3:1 by the end of the campaign.",
+                "Maintain ad frequency below 2.5 to avoid ad fatigue."
+            ],
+            "recommendations": [
+                "Counter rising CPMs by focusing on low\u2011competition niche audiences and short\u2011form video placements.",
+                "Mitigate policy changes by pre\u2011approving ad creatives and maintaining compliance checklists.",
+                "Address limited data granularity by using AI\u2011driven predictive modeling and frequent micro\u2011adjustments.",
+                "Prevent ad fatigue by rotating creative assets every 48 hours and capping frequency.",
+                "Navigate regulatory scrutiny by adhering to data\u2011privacy best practices and using platform\u2011provided consent tools."
+            ]
+        }
+    ]
+}
